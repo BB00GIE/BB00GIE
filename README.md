@@ -71,11 +71,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BB00GIE&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->  
-
+<!-- ## Recent Blog Posts  BLOG-POST-LIST:START   BLOG-POST-LIST:END  -->
 <br/>  
 
 ## Listening To

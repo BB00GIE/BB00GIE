@@ -12,7 +12,7 @@
 
 <br/>
 
-- 👨‍🎓 I'm currently working on graduating college before I start working  
+- 👨‍🎓 I'm currently working on graduating college before I start working for Google
   
 
 - 🌱 I’m currently learning JS and refreshing HTML and CSS  

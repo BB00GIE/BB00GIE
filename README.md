@@ -8,21 +8,18 @@
 
 ## Intro
 
-### <div align="center">I'm Brandon, a full-time SDE at Google  since 2022</div>  
+### <div align="center">I'm Brandon, a former full-time SWE at Google  From 2022-2026</div>  
 
 <br/>
   
 
-- 🌱 I’m currently learning JS and refreshing HTML and CSS  
+- 🌱 I’m currently learning...
   
 
 - ❓ Ask me about anything, I love helping people learn  
   
 
-- 💼Previous Jobs: CS Tutor, CS TA, Amazon AWS Intern  
-  
-
-- ⚡ Fun fact: I never filled out an application for a Full Time role  
+- 💼Previous Jobs: CS Tutor, CS TA, Amazon AWS Intern, Google SWE  
   
 
 <br/>  
